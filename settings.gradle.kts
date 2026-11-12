@@ -14,5 +14,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "aliasangamelocalnework"
+rootProject.name = "aliasangamelocalnetwork"
+
 include(":app")
